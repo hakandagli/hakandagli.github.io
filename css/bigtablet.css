@@ -1,0 +1,23 @@
+html{
+    font-size: 9px;
+}
+
+#main-title{
+   font-size: 8rem;
+}
+
+#about {
+    padding:0 13rem;
+}
+
+.section-title{
+    margin-bottom: 2rem;
+}
+
+#about img{
+    height: 30rem;
+}
+
+form{
+    width: 60%;
+}

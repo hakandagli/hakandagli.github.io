@@ -1,0 +1,38 @@
+html{
+    font-size: 7px;
+}
+
+#main-title{
+    font-size: 7rem;
+}
+
+#about{
+    padding-top:4rem;
+}
+
+#about-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#about-text-title{
+    text-align: center;
+}
+
+#about img{
+   margin-right: 0;
+    margin-bottom: 2rem;
+}
+
+#about-button-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    width: 80%;
+}
