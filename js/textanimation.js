@@ -1,5 +1,5 @@
 var typed = new Typed('.animate', {
-    strings: ["Front-End Developer","Computer Engineer","Freelancer"],
+    strings: ["Full Stack Developer","Computer Engineer","Freelancer","Front-end Developer"],
     typeSpeed:50,
     backSpeed:50,
     loop:true 

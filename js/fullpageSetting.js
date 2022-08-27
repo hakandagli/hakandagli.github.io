@@ -1,7 +1,7 @@
 new fullpage('#fullpage', {
     autoScrolling: true,
     loopBottom: true,
-    anchors: ['anasayfa', 'hakkimda', 'iletisim'],
+    anchors: ['home', 'aboutme', 'myprojects'],
     menu: '#navbar',
     controlArrows: false,
     /*navigation: true,
