@@ -1,7 +1,7 @@
 new fullpage('#fullpage', {
     autoScrolling: true,
     loopBottom: true,
-    anchors: ['home', 'aboutme', 'myprojects'],
+    anchors: ['home', 'aboutme', 'myprojects','footerhd'],
     menu: '#navbar',
     controlArrows: false,
     /*navigation: true,
