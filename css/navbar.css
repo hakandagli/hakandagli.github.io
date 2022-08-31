@@ -142,11 +142,16 @@ nav{
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 768px) {
+    nav{
+        padding: 1rem 2rem;
+    }
     #navbar-links li i{
         display: none;
     }
  }
+
+
 
 /*navbar efect*/
 .items2 a{
