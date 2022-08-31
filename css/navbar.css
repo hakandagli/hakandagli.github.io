@@ -125,26 +125,26 @@ nav{
 
 @media (max-width: 1350px) {
    nav{
-       padding: 1rem 5rem;
+       padding: 1rem 3rem;
    }
-}
 
-@media (max-width: 400px) {
-    nav{
-        padding: 1rem 3rem;
+   #navbar-links li a{
+    color:black;
+    letter-spacing: .1rem;
+    padding:.5rem 1rem;
+    transition: all .2s ease;
+    border-radius: 1rem;
+    margin-left: .3rem;
     }
 
     #navbar-links li i{
-        display: none;
+        font-size: 1.4rem;
     }
+}
 
-    #navbar-links li a{
-        color:black;
-        letter-spacing: .1rem;
-        padding:.5rem 1rem;
-        transition: all .2s ease;
-        border-radius: 1rem;
-        margin-left: .3rem;
+@media (max-width: 400px) {
+    #navbar-links li i{
+        display: none;
     }
  }
 
